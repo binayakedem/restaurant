@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+
+  /* background: rgb(205,201,201); */
+  /* background: linear-gradient(38deg, rgba(205,201,201,1) 2%, rgba(68,67,67,1) 6%, rgba(244,240,240,1) 10%, rgba(61,59,57,1) 13%, rgba(223,214,214,1) 17%, rgba(79,73,73,1) 20%, rgba(163,157,157,1) 24%, rgba(22,21,21,1) 28%, rgba(231,224,224,1) 32%, rgba(36,33,33,1) 37%, rgba(235,221,221,1) 41%, rgba(52,50,50,1) 46%, rgba(182,168,168,1) 51%, rgba(31,29,29,1) 57%, rgba(177,169,169,1) 61%, rgba(34,33,33,1) 66%, rgba(230,223,223,1) 70%, rgba(65,62,62,1) 73%, rgba(203,190,190,1) 77%, rgba(27,25,25,1) 83%, rgba(201,193,193,1) 87%, rgba(74,70,70,1) 91%, rgba(203,191,191,1) 96%, rgba(66,63,63,1) 98%);  font-synthesis: none; */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
